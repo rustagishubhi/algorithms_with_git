@@ -16,8 +16,15 @@ Happy Open Sourcing!
 - [Maximum of Array](algorithms/Array/maximum_of_array)
 - [Number of Inversions in a Array](algorithms/Array/No-of-Inversions)
 
+### Binary Search Tree
+- [Finding Minimum of BST](algorithms/Binary_Search_Tree/bst_min)
+- [Deleting a node from BST](algorithms/Binary_Search_Tree/bst_del)
+
+
 ### Linked List
 - [Detect_Loop_in_Linked_List](algorithms/Linked_List/detect_loop_in_linkedlist)
+- [Delete consecutive duplicate elements in Linked List](algorithms/Linked_List/Delete_duplicate_from_linkedlist)
+- [Reversing a Linked List using stack](algorithms/Linked_List/reverse_linkedlist_using_stack)
 
 ### Graph
 
@@ -25,15 +32,18 @@ Happy Open Sourcing!
 - [Dijkstra Shortest Path](algorithms/Graph/dijkstra)
 - [Floyd Warshall Algorithm](algorithms/Graph/floyd_warshall)
 - [Graph Coloring using backtracking](algorithms/Graph/graph_coloring)
+- [L-ary Heap](algorithms/Graph/L-ary)
 
 ### Maths
 
+- [Armstrong No](algorithms/Maths/armstrong_no)
 - [Binomial Coefficient](algorithms/Maths/binomialCoefficient)
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
 - [Towers_of_Hanoi](algorithms/Maths/Towers_of_Hanoi/)
 - [Digits to Figure](algorithms/Maths/digit_to_figure)
 - [T Prime Number](algorithms/Maths/t_prime_number)
+- [Last_Men_Standing](algorithms/Maths/last_men_standing)
 
 ### Sorting
 
@@ -52,3 +62,5 @@ Happy Open Sourcing!
 
 ### Strings
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
+- [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
+- [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
